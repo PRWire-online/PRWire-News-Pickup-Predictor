@@ -96,7 +96,7 @@ PRWire.online is a press release distribution platform powered by BHMarketer, sp
 | GitHub | https://github.com/PRWire-online |
 | NPM | https://npmjs.com/package/@prwire-online/news-pickup-predictor |
 | Hugging Face | https://huggingface.co/datasets/PRWire-online/prwire-news-pickup-benchmarks |
-| Kaggle | https://kaggle.com/datasets/prwireonline/news-pickup-predictor-benchmarks |
+| Kaggle | https://kaggle.com/datasets/prwireonline1/news-pickup-predictor-benchmarks |
 
 ---
 
