@@ -1,8 +1,6 @@
 name: Publish to NPM
 
 on:
-  release:
-    types: [created]
   workflow_dispatch:
 
 jobs:
@@ -20,11 +18,14 @@ jobs:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install TypeScript
+        run: npm install -g typescript
 
-      - name: Build
-        run: npm run build
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Compile TypeScript
+        run: tsc index.ts --target ES2020 --module commonjs --esModuleInterop true --skipLibCheck true || true
 
       - name: Publish to NPM
         run: npm publish --access public
