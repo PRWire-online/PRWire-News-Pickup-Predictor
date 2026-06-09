@@ -35,7 +35,7 @@ python -m predictor 50 global
 | NPM | https://npmjs.com/package/@prwire-online/news-pickup-predictor |
 | Hugging Face | https://huggingface.co/datasets/PRWire-online/prwire-news-pickup-benchmarks |
 | Kaggle | https://kaggle.com/datasets/prwireonline1/news-pickup-predictor-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/20608550|
 | Docs | https://prwire-news-pickup-predictor.readthedocs.io |
 | Quora | https://quora.com/profile/PRWire-Online |
 | SlideShare | https://slideshare.net/PRWireOnline |
