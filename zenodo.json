@@ -19,6 +19,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
+  "doi": "10.5281/zenodo.20608550",
   "related_identifiers": [
     {
       "identifier": "https://github.com/PRWire-online/PRWire-News-Pickup-Predictor",
@@ -38,6 +39,16 @@
     {
       "identifier": "https://huggingface.co/datasets/PRWire-online/prwire-news-pickup-benchmarks",
       "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/prwireonline1/prwire-news-pickup-predictor-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://zenodo.org/records/20608550",
+      "relation": "isIdenticalTo",
       "scheme": "url"
     }
   ]
