@@ -10,7 +10,7 @@ Predict press release news pickup probability and estimated syndication reach. B
 - Benchmark dataset included (20 press releases)
 - Lightweight, publish-ready, minimal dependencies
 
-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20608550.svg)](https://doi.org/10.5281/zenodo.20608550)
+- [![DOI - Zenodo]](https://doi.org/10.5281/zenodo.20608550)
 
 
 ## Quick Start
