@@ -1,0 +1,21 @@
+id,press_releases,tier,pickup_score,estimated_reach,category,notes
+1,5,local,42,7000,Technology,Small local tech announcement
+2,10,local,44,9000,Finance,Local finance news
+3,15,national,50,30500,Technology,Mid-size tech launch
+4,20,national,54,34000,Crypto,Crypto project announcement
+5,25,national,57,37500,Finance,Finance product launch
+6,30,global,70,80000,Technology,Global SaaS launch
+7,35,global,74,85000,Crypto,Major crypto exchange listing
+8,40,global,80,90000,Finance,IPO announcement
+9,50,global,90,100000,Technology,Major product launch
+10,60,global,100,110000,Crypto,Top-tier crypto news
+11,8,local,43,8200,Healthcare,Local health awareness
+12,12,national,48,28400,Education,University press release
+13,18,national,52,32600,Real Estate,Property development news
+14,22,global,62,72000,Energy,Renewable energy project
+15,28,global,68,78000,Automotive,EV launch announcement
+16,33,national,63,43100,Retail,E-commerce platform launch
+17,45,global,85,95000,Technology,AI product announcement
+18,55,global,98,105000,Finance,Major funding round
+19,7,local,42,7700,Food,Restaurant chain opening
+20,16,national,51,31600,Travel,Tourism campaign launch
