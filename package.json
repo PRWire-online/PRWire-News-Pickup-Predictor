@@ -1,0 +1,33 @@
+{
+  "name": "@prwire-online/news-pickup-predictor",
+  "version": "1.0.0",
+  "description": "Predict press release news pickup probability and syndication reach. Powered by PRWire.online",
+  "main": "index.js",
+  "bin": {
+    "news-pickup-predictor": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "press-release",
+    "news-pickup",
+    "pr-distribution",
+    "wire-syndication",
+    "prwire",
+    "bhmarketer",
+    "ai-visibility",
+    "seo"
+  ],
+  "author": "PRWire.online powered by BHMarketer",
+  "license": "MIT",
+  "homepage": "https://prwire.online",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PRWire-online/PRWire-News-Pickup-Predictor"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
