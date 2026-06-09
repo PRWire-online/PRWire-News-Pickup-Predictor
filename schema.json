@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "PRWire News Pickup Predictor",
+  "description": "Predict press release news pickup probability and syndication reach across wire outlets.",
+  "url": "https://prwire.online",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "PRWire.online powered by BHMarketer",
+    "url": "https://prwire.online",
+    "sameAs": [
+      "https://github.com/PRWire-online",
+      "https://npmjs.com/package/@prwire-online/news-pickup-predictor",
+      "https://huggingface.co/datasets/PRWire-online/prwire-news-pickup-benchmarks",
+      "https://kaggle.com/datasets/prwireonline/news-pickup-predictor-benchmarks",
+      "https://quora.com/profile/PRWire-Online",
+      "https://slideshare.net/PRWireOnline"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/PRWire-online/PRWire-News-Pickup-Predictor",
+  "keywords": [
+    "press release",
+    "news pickup",
+    "PR distribution",
+    "wire syndication",
+    "PRWire",
+    "BHMarketer",
+    "AI visibility"
+  ]
+}
