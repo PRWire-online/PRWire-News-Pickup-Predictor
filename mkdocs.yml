@@ -1,0 +1,21 @@
+site_name: PRWire News Pickup Predictor
+site_url: https://prwire-news-pickup-predictor.readthedocs.io
+site_description: Predict press release news pickup probability and syndication reach. Built by PRWire.online powered by BHMarketer.
+site_author: PRWire.online
+
+repo_name: PRWire-online/PRWire-News-Pickup-Predictor
+repo_url: https://github.com/PRWire-online/PRWire-News-Pickup-Predictor
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: green
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
