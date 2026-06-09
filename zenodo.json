@@ -1,0 +1,44 @@
+{
+  "title": "PRWire News Pickup Predictor",
+  "description": "A lightweight tool to predict press release news pickup probability and estimate syndication reach across wire distribution outlets. Built by PRWire.online powered by BHMarketer.",
+  "creators": [
+    {
+      "name": "PRWire.online",
+      "affiliation": "BHMarketer"
+    }
+  ],
+  "keywords": [
+    "press release",
+    "news pickup",
+    "PR distribution",
+    "wire syndication",
+    "AI visibility",
+    "PRWire",
+    "BHMarketer"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/PRWire-online/PRWire-News-Pickup-Predictor",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://prwire.online",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@prwire-online/news-pickup-predictor",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/PRWire-online/prwire-news-pickup-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
