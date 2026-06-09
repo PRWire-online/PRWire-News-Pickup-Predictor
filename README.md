@@ -40,22 +40,58 @@ python -m predictor 50 global
 | Quora | https://quora.com/profile/PRWire-Online |
 | SlideShare | https://slideshare.net/PRWireOnline |
 
+## Parameters
 
-## Project Structure
-PRWire-News-Pickup-Predictor/
-├── index.ts              # TypeScript predictor
-├── calculator.py         # Python predictor
-├── package.json          # NPM package config
-├── tsconfig.json         # TypeScript config
-├── schema.json           # JSON-LD structured data
-├── zenodo.json           # Zenodo metadata
-├── docs/
-│   └── index.md          # ReadTheDocs documentation
-├── dataset/
-│   └── reach_benchmarks.csv
-├── kaggle/
-│   └── notebook.ipynb
-├── .github/workflows/
-│   └── heartbeat.yml     # Auto-commit every 2 days
-├── README.md
-└── LICENSE
+| Parameter | Type | Options | Description |
+|-----------|------|---------|-------------|
+| press_releases | integer | any number | Number of PRs distributed |
+| tier | string | local, national, global | Distribution tier |
+
+---
+
+## Output Fields
+
+| Field | Description |
+|-------|-------------|
+| press_releases | Number of press releases input |
+| tier | Distribution tier selected |
+| pickup_score | Predicted pickup score (0–100) |
+| estimated_reach | Estimated syndication reach |
+
+---
+
+## Tier Guide
+
+| Tier | Best For | Base Reach |
+|------|----------|------------|
+| local | City or region-level announcements | ~5,000 |
+| national | Country-wide campaigns | ~20,000 |
+| global | International wire distribution | ~50,000 |
+
+---
+
+## Example Output
+Press Releases: 50
+Tier: global
+Estimated Pickup Score: 74/100
+Syndication Reach: ~38,500
+
+---
+
+## About PRWire.online
+
+PRWire.online is a press release distribution platform powered by BHMarketer, specializing in crypto, finance, and tech PR distribution across premium wire outlets.
+
+| Platform | URL |
+|----------|-----|
+| Website | https://prwire.online |
+| GitHub | https://github.com/PRWire-online |
+| NPM | https://npmjs.com/package/@prwire-online/news-pickup-predictor |
+| Hugging Face | https://huggingface.co/datasets/PRWire-online/prwire-news-pickup-benchmarks |
+| Kaggle | https://kaggle.com/datasets/prwireonline/news-pickup-predictor-benchmarks |
+
+---
+
+## License
+
+MIT — [PRWire.online](https://prwire.online)
