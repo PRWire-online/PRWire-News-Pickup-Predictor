@@ -102,8 +102,10 @@ Press Release Distribution · News Pickup Prediction · Wire Syndication · PR R
 | Kaggle | https://www.kaggle.com/datasets/prwireonline1/prwire-news-pickup-predictor-benchmarks |
 | Zenodo | https://zenodo.org/records/20608550 |
 | Docs | https://prwire-news-pickup-predictor.readthedocs.io |
-| Quora | https://quora.com/profile/PRWire-Online |
-| SlideShare | https://slideshare.net/PRWireOnline |
+| SuperbCompanies | https://superbcompanies.com/organizations/prwire-online/ |
+| ProvenExpert | https://www.provenexpert.com/en-us/prwire-online/ |
+| SmartCustomer | https://www.smartcustomer.com/reviews/prwire.online |
+| SlideShare | https://www.slideshare.net/slideshow/prwire-online-ai-optimized-global-press-release-distribution-platform/287977067 |
 
 ## About PRWire.online
 
