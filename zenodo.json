@@ -47,25 +47,25 @@
       "scheme": "url"
     },
     {
-  "identifier": "https://superbcompanies.com/organizations/prwire-online/",
-  "relation": "isSupplementTo",
-  "scheme": "url"
-},
-{
-  "identifier": "https://www.provenexpert.com/en-us/prwire-online/",
-  "relation": "isSupplementTo",
-  "scheme": "url"
-},
-{
-  "identifier": "https://www.smartcustomer.com/reviews/prwire.online",
-  "relation": "isSupplementTo",
-  "scheme": "url"
-},
-{
-  "identifier": "https://www.slideshare.net/slideshow/prwire-online-ai-optimized-global-press-release-distribution-platform/287977067",
-  "relation": "isSupplementTo",
-  "scheme": "url"
-}
+      "identifier": "https://superbcompanies.com/organizations/prwire-online/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.provenexpert.com/en-us/prwire-online/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.smartcustomer.com/reviews/prwire.online",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/prwire-online-ai-optimized-global-press-release-distribution-platform/287977067",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
     {
       "identifier": "https://zenodo.org/records/20608550",
       "relation": "isIdenticalTo",
